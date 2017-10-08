@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <title> Science Facts</title>
+    <link rel=stylesheet type=text/css href="{{url_for('static', filename='style.css')}}" /> 
+</head>
+    
+<body>
+	<h1>What's your name?</h1>
+	<form action="/fact" method="POST">
+		<input type="text" name="text">
+        <h1>Do want a science fact?</h1>
+        <input type="radio" name="opt" value="Yes">Yes &ensp;
+        <input type="radio" name="opt" value="Obviously">Obviously <br> <br>
+		<input type="submit" name="form1" value="Submit">
+	</form>
+</body>
+</html>
