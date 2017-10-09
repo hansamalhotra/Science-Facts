@@ -3,3 +3,18 @@ body {
     text-align: center;
     font-weight: 100;
 }
+
+#submit1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+    font-size: 16px;
+    font-family: "Courier";
+}
+#text1 {
+    font-family: "Courier";
+    width: 200px;
+    height: 20px;
+    font-size: 16px;
+    
+}
