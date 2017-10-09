@@ -9,7 +9,7 @@ The steps to use this little python-flask app are
 
 2. Go to the directory where the above folder is stored by typing this into terminal/shell
 
-    cd ~/<Folder>/Science-Facts
+    cd ~/YourFolder/Science-Facts
   
 3. Type this command into shell to run the virtual environment 
 
